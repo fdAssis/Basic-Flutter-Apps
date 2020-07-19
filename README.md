@@ -16,6 +16,7 @@
 
 ## :vertical_traffic_light: Projetos
   - <a href="#BMI Calculator">BMI Calculator</a>
+  - <a href="#Currency Conversion">Currency Conversion</a>
 ---
 
 - ### BMI Calculator
@@ -29,8 +30,21 @@
     - [x] Controller
     - [x] Formulários e Validações.
  
-  <p align="center">
-    <img src="bmi_calculator/screenshot/bmi.gif" width=250 title="Pagina de Sobre"/>
+  <p float="left" align="center">
+    
+    <img src="screenshots/bmi_02.jpg" width=250 title="Pagina de Sobre"/>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="screenshots/bmi_01.gif" width=250 title="Pagina de Sobre"/>
 
   </p> 
 ---
+
+- ### Currency Conversion
+
+  <p float="left" align="center">
+    
+    <img src="screenshots/currency_02.jpg" width=250 title="Pagina de Sobre"/>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="screenshots/currency_01.gif" width=250 title="Pagina de Sobre"/>
+
+  </p>
