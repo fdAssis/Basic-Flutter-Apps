@@ -20,9 +20,26 @@
 
 - ### BMI Calculator
 
-  <p align="center">
+   <style>
+     img {
+       border-radius: 20px;
+       width: 250px;
+     }
+    
+  </style>
 
-    <img src="bmi_calculator/screenshot/bmi.gif" width=350 title="Pagina de Sobre"/>
+  App pra calcular o IMC - indice de massa corporal - de uma pessoa. O índice de massa corporal é uma medida internacional usada para calcular se uma pessoa está no peso ideal.
+
+    O objetivo da criação desse projeto/App é o aprendizado basico de alguns conseitos/widgets do flutter, tais como:
+
+    - Scaffold e AppBar
+    - TextField e Decoration
+    - ScrollView e RaisedButton
+    - Controller
+    - Formulários e Validações.
+ 
+  <p align="center">
+    <img src="bmi_calculator/screenshot/bmi.gif" width=250 title="Pagina de Sobre"/>
 
   </p> 
 ---
