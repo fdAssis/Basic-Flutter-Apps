@@ -17,12 +17,13 @@
 ## :vertical_traffic_light: Projetos
   - <a href="#BMI Calculator">BMI Calculator</a>
   - <a href="#Currency Conversion">Currency Conversion</a>
+  - <a href="#Phonebook">Phonebook</a>
 ---
 
 - ### BMI Calculator
   App pra calcular o IMC - indice de massa corporal - de uma pessoa. O índice de massa corporal é uma medida internacional usada para calcular se uma pessoa está no peso ideal.
 
-    O objetivo da criação desse projeto/App é o aprendizado basico de alguns conseitos/widgets do flutter, tais como:
+  O objetivo da criação desse projeto/App é o aprendizado basico de alguns conseitos/widgets do flutter, tais como:
 
     - [x] Scaffold e AppBar
     - [x] TextField e Decoration
@@ -40,6 +41,8 @@
 ---
 
 - ### Currency Conversion
+      SCCscsc x csa
+
 
   <p float="left" align="center">
     
