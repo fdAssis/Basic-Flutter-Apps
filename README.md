@@ -56,7 +56,6 @@
   <p float="left" align="center">
     
     <img src="screenshots/phonebook_01.gif" width=250 title="Pagina de Sobre"/>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <img src="screenshots/phonebook_02.jpg" width=250 title="Pagina de Sobre"/>
     <img src="screenshots/phonebook_03.gif" width=250 title="Pagina de Sobre"/>
 
@@ -67,7 +66,6 @@
   <p float="left" align="center">
     
     <img src="screenshots/search_gifs_01.gif" width=250 title="Pagina de Sobre"/>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <img src="screenshots/search_gifs_02.jpg" width=250 title="Pagina de Sobre"/>
     <img src="screenshots/search_gifs_03.gif" width=250 title="Pagina de Sobre"/>
 
