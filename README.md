@@ -15,9 +15,10 @@
 
 
 ## :vertical_traffic_light: Projetos
-  - <a href="#BMI Calculator">BMI Calculator</a>
-  - <a href="#Currency Conversion">Currency Conversion</a>
-  - <a href="#Phonebook">Phonebook</a>
+  - <a href="#bmi-calculator">BMI Calculator</a>
+  - <a href="#currency-conversion">Currency Conversion</a>
+  - <a href="#phonebook">Phonebook</a>
+  - <a href="#Search-gifs">Search Gifs</a>
 ---
 
 - ### BMI Calculator
@@ -41,13 +42,22 @@
 ---
 
 - ### Currency Conversion
-      SCCscsc x csa
-
 
   <p float="left" align="center">
     
     <img src="screenshots/currency_02.jpg" width=250 title="Pagina de Sobre"/>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <img src="screenshots/currency_01.gif" width=250 title="Pagina de Sobre"/>
+
+  </p>
+---
+- ### Phonebook
+
+  <p float="left" align="center">
+    
+    <img src="screenshots/phonebook_01.gif" width=250 title="Pagina de Sobre"/>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="screenshots/phonebook_02.jpg" width=250 title="Pagina de Sobre"/>
+    <img src="screenshots/phonebook_03.gif" width=250 title="Pagina de Sobre"/>
 
   </p>
