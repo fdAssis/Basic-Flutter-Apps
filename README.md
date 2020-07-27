@@ -42,6 +42,11 @@
 ---
 
 - ### Currency Conversion
+  Aplicativo simples para a realização de conversão de moedas (Reais, Dólar e Euro), utilizando uma API externa para a obtenção de valores em tempo real.
+  
+  - [x] Padrão JSON
+  - [x] API externa e Requisições http
+  - [x] FutureBuilder
 
   <p float="left" align="center">
     
