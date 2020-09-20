@@ -111,11 +111,11 @@ class _HomeState extends State<Home> {
               children: <Widget>[ 
                 Expanded(
                     child: TextField(
-                      controller: _numberController,
+                      controller  : _numberController,
                       keyboardType: TextInputType.phone,
-                      style: TextStyle(color: Colors.blue[900]),
+                      style       : TextStyle(color: Colors.blue[900]),
                       decoration: InputDecoration(
-                        labelText:"Numero",
+                        labelText : "Numero",
                         labelStyle: TextStyle(color: Colors.deepPurple[900]) 
                       ),
                     ),
@@ -123,9 +123,9 @@ class _HomeState extends State<Home> {
                 RaisedButton(
                   onPressed: _addContats,
                   textColor: Colors.white,
-                  color: Colors.deepPurpleAccent,
+                  color    : Colors.deepPurpleAccent,
                   elevation: 10.0,
-                  child:Text("Salvar"),
+                  child    : Text("Salvar"),
                 ), 
               ],
             )
@@ -134,7 +134,7 @@ class _HomeState extends State<Home> {
           Expanded(
             child: RefreshIndicator(
               child: ListView.builder(
-                itemCount: _listContats.length,
+                itemCount  : _listContats.length,
                 itemBuilder: buildItem,
               ), 
               onRefresh: _refresh, 
@@ -177,7 +177,7 @@ class _HomeState extends State<Home> {
               alignment: Alignment(1.5, 0.0),
               child: IconButton(
                 color: Colors.deepPurpleAccent,
-                icon: Icon( _listContats[index]['favorite'] ? Icons.favorite: Icons.favorite_border), 
+                icon : Icon( _listContats[index]['favorite'] ? Icons.favorite: Icons.favorite_border), 
                 tooltip: "Favotitar",
                 onPressed: () {
                   setState(() {
