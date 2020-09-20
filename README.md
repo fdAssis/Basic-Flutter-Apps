@@ -61,15 +61,14 @@
 
   <p align="center">
     
-    <img width="400" src="http://res.cloudinary.com/dorzadlpq/image/upload/v1600620713/image/github/flutter/phonebook_rdixlq.gif"/>
-    <img width="400" src="https://res.cloudinary.com/dorzadlpq/image/upload/v1600620586/image/github/flutter/phonebook_2_vskdna.gif"/>
+    <img width=400 src="http://res.cloudinary.com/dorzadlpq/image/upload/v1600620713/image/github/flutter/phonebook_rdixlq.gif"/>
+    <img width=400 src="https://res.cloudinary.com/dorzadlpq/image/upload/v1600620586/image/github/flutter/phonebook_2_vskdna.gif"/>
 
   </p>
 ---
 - ### Search Gifs
 
-  <p float="left" align="center">
-    
-    <img width="400" src="https://res.cloudinary.com/dorzadlpq/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1600624492/image/github/flutter/search_gifs_01_telmkc.gif/>
-    <img width="400" src="http://res.cloudinary.com/dorzadlpq/image/upload/v1600624029/image/github/flutter/search_gifs_02_dio9vs.gif"/>
+  <p align="center">
+    <img width=400 src="https://res.cloudinary.com/dorzadlpq/image/upload/v1600626101/image/github/flutter/search_gif_1_zon2wp.gif"/>
+    <img width=400 src="https://res.cloudinary.com/dorzadlpq/image/upload/v1600626278/image/github/flutter/search_gif_2_mkxklf.gif"/>
   </p>
