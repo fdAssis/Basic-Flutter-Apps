@@ -61,8 +61,8 @@
 
   <p float="left" align="center">
     
-    <img src="screenshots/phonebook.gif" width=450 title="Pagina de Sobre"/>
-    <img src="screenshots/phonebook_2.gif" width=450 title="Pagina de Sobre"/>
+    <img src="screenshots/phonebook.gif" width=300 title="Pagina de Sobre"/>
+    <img src="screenshots/phonebook_2.gif" width=300 title="Pagina de Sobre"/>
 
 
   </p>
