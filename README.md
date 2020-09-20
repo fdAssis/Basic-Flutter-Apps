@@ -59,8 +59,8 @@
 ---
 - ### Phonebook
   <p align="center">
-    <img src="http://res.cloudinary.com/dorzadlpq/image/upload/v1600620713/image/github/flutter/phonebook_rdixlq.gif"/>
-    <img src="https://res.cloudinary.com/dorzadlpq/image/upload/v1600620586/image/github/flutter/phonebook_2_vskdna.gif" />
+    <img width=400 src="http://res.cloudinary.com/dorzadlpq/image/upload/v1600620713/image/github/flutter/phonebook_rdixlq.gif"/>
+    <img width=400 src="https://res.cloudinary.com/dorzadlpq/image/upload/v1600620586/image/github/flutter/phonebook_2_vskdna.gif" />
   </p>
 ---
 - ### Search Gifs
